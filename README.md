@@ -6,4 +6,4 @@ To run the app
 ->first clone the repo
 ->Go to the project directory and using command line run npm i
 ->run npm run dev
-->goto http://localhost/3000 to view the App
+->goto http://localhost:3000 to view the App
